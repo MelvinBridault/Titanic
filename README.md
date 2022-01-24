@@ -6,6 +6,6 @@ I am a person who loves data visualisation so this will be a main focus of this 
 Over time, this notebook will cover also data cleaning, feature engineering, exploratory data analysis, mapping, feature importance, correlations, machine learning, model selection and evaluation of the model.
 
 <p align="center">                                                                                                                      
-  <a href="https://user-images.githubusercontent.com/73826011/150673723-06234a02-0548-410e-8cbf-eef869f07d7c.png">
-    <img alt="graph" src="https://user-images.githubusercontent.com/73826011/150673723-06234a02-0548-410e-8cbf-eef869f07d7c.png"/></a>
+  <a href="https://user-images.githubusercontent.com/73826011/150744607-3fb04f60-cdb9-4f15-a328-d33145f91417.png">
+    <img alt="graph" src="https://user-images.githubusercontent.com/73826011/150744607-3fb04f60-cdb9-4f15-a328-d33145f91417.png"/></a>
 </p>
