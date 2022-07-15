@@ -3,12 +3,14 @@
 Henry D. Hubbard, Creator of the Periodic Table of Elements
 </p>
 
-# WORK IN PROGRESS
+## Project Status
 
 Over time, this notebook will cover also data cleaning, feature engineering, exploratory data analysis, mapping, feature importance, correlations, machine learning, model selection and evaluation of the model.
 
-I highly recommend [nbviewer](https://nbviewer.org/) to explore my notebook  :relaxed:
+## Visualization
 
+I highly recommend [nbviewer](https://nbviewer.org/) to explore my notebook  :relaxed:
+Copy / paste the notebook link
 <p align="center">                                                                                                                      
   <a href="https://user-images.githubusercontent.com/73826011/150744607-3fb04f60-cdb9-4f15-a328-d33145f91417.png">
     <img alt="graph" src="https://user-images.githubusercontent.com/73826011/150744607-3fb04f60-cdb9-4f15-a328-d33145f91417.png"/></a>
